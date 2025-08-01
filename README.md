@@ -1,5 +1,5 @@
 # TsunamiTide-Tracker
-First stab at this, accidentally deleted cursor agent (ha) but uploading from local copy?
+First stab at manual upload, deleted the agent for this build as an overly bold test so am uploading from my 3x backuped 1st successful shot.
 
 Manually loading seems too many files to just drop the whole folder in so zipped it.
 
