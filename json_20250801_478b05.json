@@ -1,0 +1,14 @@
+{
+  "features": [{
+    "properties": {
+      "eventid": "12345",
+      "episodeid": "67890",
+      "eventtype": "EQ",
+      "fromdate": "2025-07-30T12:00:00Z",
+      "alertlevel": "Red",
+      "arrivaltime": "2025-07-30T14:30:00Z", // Predicted arrival
+      "latitude": -5.789,
+      "longitude": 154.321
+    }
+  }]
+}
